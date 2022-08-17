@@ -1,3 +1,0 @@
-provider "fakewebservices" {
-  # Configuration options
-}
